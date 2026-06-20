@@ -1,4 +1,4 @@
 # leaked by voidzero, it was meant to happen
 
 loader security:
-<img src="https://cdn.discordapp.com/attachments/1442879866130268240/1515441756756377690/PaUZOFz.png?ex=6a2f049e&is=6a2db31e&hm=962476a607ad94edb27ffd5feded2a7f17ad8def2fb43485ad98738ca378713c&" alt="hello">
+<img src="https://media.discordapp.net/attachments/1442879866130268240/1515441756756377690/PaUZOFz.png?ex=6a37965e&is=6a3644de&hm=52c7c7bc21fd53ad3d98d02bc041d21fc5964714696263273408f5eefb090168&=&format=webp&quality=lossless" alt="hello">
